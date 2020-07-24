@@ -1,9 +1,5 @@
 # rrs_consultoria
 
-
-# rrs_consultoria
-
-
 <img src="https://img.shields.io/static/v1?label=version&message=v1.0&color=success&style=flat"/> <img src="https://img.shields.io/static/v1?label=build&message=passing&color=success&style=flat"/>
 <a href="https://github.com/Prof-Rodrigo-Silva/appConsultoria/issues"><img alt="GitHub issues" src="https://img.shields.io/github/issues/Prof-Rodrigo-Silva/appConsultoria"></a>
 <a href="https://github.com/Prof-Rodrigo-Silva/appConsultoria/network"><img alt="GitHub forks" src="https://img.shields.io/github/forks/Prof-Rodrigo-Silva/appConsultoria"></a>
