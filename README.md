@@ -1,7 +1,13 @@
 # rrs_consultoria
 
 
+# rrs_consultoria
+
+
 <img src="https://img.shields.io/static/v1?label=version&message=v1.0&color=success&style=flat"/> <img src="https://img.shields.io/static/v1?label=build&message=passing&color=success&style=flat"/>
+<a href="https://github.com/Prof-Rodrigo-Silva/appConsultoria/issues"><img alt="GitHub issues" src="https://img.shields.io/github/issues/Prof-Rodrigo-Silva/appConsultoria"></a>
+<a href="https://github.com/Prof-Rodrigo-Silva/appConsultoria/network"><img alt="GitHub forks" src="https://img.shields.io/github/forks/Prof-Rodrigo-Silva/appConsultoria"></a>
+<a href="https://github.com/Prof-Rodrigo-Silva/appConsultoria/stargazers"><img alt="GitHub stars" src="https://img.shields.io/github/stars/Prof-Rodrigo-Silva/appConsultoria"></a>
 
 
 **Project Status: Concluded** :heavy_check_mark:
@@ -10,6 +16,8 @@
 
 Flutter application that simulates a consulting company, an exercise proposed as an activity to spread the knowledge of navigation between screens with flutter.
 The main menu provides 4 options to the app user, being able to choose any one and return to the home screen again. Below example of the screens.
+
+<img src="https://github.com/Prof-Rodrigo-Silva/appConsultoria/1.png"> <img src="https://github.com/Prof-Rodrigo-Silva/appConsultoria/2.png"> <img src="https://github.com/Prof-Rodrigo-Silva/appConsultoria/3.png"> <img src="https://github.com/Prof-Rodrigo-Silva/appConsultoria/4.png">
 
 
 ## **About Flutter**
